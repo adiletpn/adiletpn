@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="84" viewBox="0 0 430 84">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0F17"/><stop offset="1" stop-color="#121826"/></linearGradient>
+    <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+    <clipPath id="c"><rect width="430" height="84" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="430" height="84" fill="url(#bg)"/>
+    <circle cx="40" cy="70" r="50" fill="#2AABEE" opacity="0.28" filter="url(#b)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="429" height="83" rx="16" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  <rect x="20" y="18" width="48" height="48" rx="12" fill="#2AABEE" fill-opacity="0.16" stroke="#2AABEE" stroke-opacity="0.45"/>
+  <g transform="translate(32 30)" fill="none" stroke="#2AABEE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 3 2 10.5l6.5 2.5L18 6l-7.5 8.5L11 21l3.5-4.5L19 20z"/></g>
+  <text x="86" y="37" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#7D8590" letter-spacing="1">TELEGRAM</text>
+  <text x="86" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="600" fill="#F0F3F8">@lladill</text>
+  <path d="M396 34l8 8-8 8" fill="none" stroke="#7D8590" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
