@@ -35,18 +35,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 🚀 Featured projects
-
-| Project | What it is |
-|---|---|
-| ⚡ [**MindXSoup**](https://github.com/adiletpn/MindXSoup) | Custom Triton kernels for QLoRA fine-tuning on a T4: 28.4× less GPU memory, 1.48× faster, same result |
-| 🗄 [**kvstore**](https://github.com/adiletpn/kvstore) | Key-value database in C11: hash table + append-only log, zero dependencies |
-| 🌐 [**acceptloop**](https://github.com/adiletpn/acceptloop) | HTTP/1.1 server from scratch in C++20 on BSD sockets: own parser, router and thread pool |
-| 📞 [**CallAnalyzer**](https://github.com/adiletpn/CallAnalyzer) | Call analytics (RU/KZ): telephony → speech-to-text → LLM analysis → PostgreSQL → dashboard + Bitrix24 |
-| 🏢 [**b2b-platformKZ**](https://github.com/adiletpn/b2b-platformKZ) | B2B procurement marketplace for suppliers and shops in Kazakhstan, RU/KZ interface |
-| 🎧 [**CorpsolApp**](https://github.com/adiletpn/CorpsolApp) | Call-center control and gamification: NestJS + Firebase backend, web panel, Telegram mini-app |
-| 🔬 [**InsightLab**](https://github.com/adiletpn/InsightLab) | Web app with a premium light/dark design system |
-
 ### 📊 GitHub stats
 
 <div align="center">
