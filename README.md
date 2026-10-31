@@ -30,15 +30,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📊 GitHub stats
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adiletpn&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adiletpn&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=adiletpn&theme=tokyonight&hide_border=true" />
-</div>
-
 ### 📫 Reach me
 
 <p>
