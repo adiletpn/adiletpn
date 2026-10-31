@@ -20,9 +20,8 @@ HTTP server in C++.
 
 <h3><img src="assets/icon-chat.svg" width="20" align="top" />&nbsp; Say hi</h3>
 
-<a href="https://t.me/lladill"><img src="https://img.shields.io/badge/Telegram-@lladill-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:877555666zzz@gmail.com"><img src="https://img.shields.io/badge/Email-write_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=adiletpn&label=profile%20views&color=7C6CFF&style=for-the-badge" />
+<a href="https://t.me/lladill"><img src="assets/telegram.svg" width="49%" alt="Telegram @lladill" /></a>
+<a href="mailto:877555666zzz@gmail.com"><img src="assets/email.svg" width="49%" alt="Email 877555666zzz@gmail.com" /></a>
 
 <br><br>
 
