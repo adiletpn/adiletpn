@@ -51,8 +51,8 @@
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adiletpn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiletpn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adiletpn&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adiletpn&theme=tokyonight" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=adiletpn&theme=tokyonight&hide_border=true" />
 </div>
