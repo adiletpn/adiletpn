@@ -6,9 +6,7 @@
 
 <br>
 
-I turn messy business processes into software that runs on its own: bots, CRMs, call analytics,
-B2B platforms. I also like building things from scratch, like a key-value database in C and an
-HTTP server in C++.
+Making the impossible possible.
 
 <br>
 
