@@ -16,7 +16,6 @@
 
 - 🛠 **Backend & mobile developer**: Python, Flutter. I build internal automation that runs in production.
 - ⚡ **GPU performance**: I write my own Triton kernels for LLM fine-tuning.
-- 🏆 **Decentrathon 6.0, Soup Kernel Challenge** with team MindX: Qwen2.5-1.5B fine-tuning in **505 MiB instead of 14 345** (28.4× less GPU memory), 1.48× faster, the same result, 10/10 official checks.
 - 📍 Taraz, Kazakhstan
 
 ### 🧰 Tech toolbox
