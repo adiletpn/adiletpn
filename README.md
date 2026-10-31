@@ -12,13 +12,13 @@ HTTP server in C++.
 
 <br>
 
-<h3>⚙️ Stack</h3>
+<h3><img src="assets/icon-stack.svg" width="20" align="top" />&nbsp; Stack</h3>
 
 <img src="https://skillicons.dev/icons?i=python,flutter,dart,ts,nestjs,firebase,postgres,c,cpp,git&theme=dark&perline=12" alt="Python, Flutter, Dart, TypeScript, NestJS, Firebase, PostgreSQL, C, C++, Git" />
 
 <br>
 
-<h3>💬 Say hi</h3>
+<h3><img src="assets/icon-chat.svg" width="20" align="top" />&nbsp; Say hi</h3>
 
 <a href="https://t.me/lladill"><img src="https://img.shields.io/badge/Telegram-@lladill-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:877555666zzz@gmail.com"><img src="https://img.shields.io/badge/Email-write_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
