@@ -14,7 +14,16 @@ HTTP server in C++.
 
 <h3><img src="assets/icon-stack.svg" width="20" align="top" />&nbsp; Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=python,flutter,dart,ts,nestjs,firebase,postgres,c,cpp,git&theme=dark&perline=12" alt="Python, Flutter, Dart, TypeScript, NestJS, Firebase, PostgreSQL, C, C++, Git" />
+<img src="assets/stack/python.svg" width="48" title="Python" alt="Python" />
+<img src="assets/stack/flutter.svg" width="48" title="Flutter" alt="Flutter" />
+<img src="assets/stack/dart.svg" width="48" title="Dart" alt="Dart" />
+<img src="assets/stack/ts.svg" width="48" title="TypeScript" alt="TypeScript" />
+<img src="assets/stack/nestjs.svg" width="48" title="NestJS" alt="NestJS" />
+<img src="assets/stack/firebase.svg" width="48" title="Firebase" alt="Firebase" />
+<img src="assets/stack/postgres.svg" width="48" title="PostgreSQL" alt="PostgreSQL" />
+<img src="assets/stack/c.svg" width="48" title="C" alt="C" />
+<img src="assets/stack/cpp.svg" width="48" title="C++" alt="C++" />
+<img src="assets/stack/git.svg" width="48" title="Git" alt="Git" />
 
 <br>
 
