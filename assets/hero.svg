@@ -48,7 +48,7 @@
     <circle class="live" cx="17" cy="15" r="4" fill="#3FB950"/>
     <text x="28" y="19.5" class="chip">2 848 contributions / year</text>
     <rect x="206" width="150" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.1"/>
-    <text x="222" y="19.5" class="chip">📍 Taraz, Kazakhstan</text>
+    <path transform="translate(220 7) scale(0.68)" d="M12 22s7-6.2 7-12a7 7 0 0 0-14 0c0 5.8 7 12 7 12z" fill="none" stroke="#FF8A4C" stroke-width="2.4"/><circle cx="228.2" cy="13.8" r="1.8" fill="#FF8A4C"/><text x="240" y="19.5" class="chip">Taraz, Kazakhstan</text>
   </g>
 
   <!-- right: terminal -->
