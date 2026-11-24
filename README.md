@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero-v2.svg" width="100%" alt="ADILET ZHOLDASBEK — BACKEND & MOBILE DEVELOPER" />
+  <img src="assets/hero-galaxy.svg" width="100%" alt="ADILET ZHOLDASBEK — BACKEND & MOBILE DEVELOPER" />
 </div>
 
 <br>
