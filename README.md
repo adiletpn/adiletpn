@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="assets/hero-v3.svg" width="100%" alt="Adilet Zholdasbek — mobile, backend and AI/ML engineer. Making the impossible possible. Taraz, Kazakhstan" />
+  <picture><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"><img src="assets/hero-dark.svg" width="100%" alt="Adilet Zholdasbek — mobile, backend and AI/ML engineer. Making the impossible possible. Taraz, Kazakhstan" /></picture>
 </div>
 
 <br>
 
-### <img src="assets/icon-orbit.svg" width="24" align="top" /> &nbsp;Tech stack
+### <picture><source media="(prefers-color-scheme: light)" srcset="assets/icon-orbit-light.svg"><img src="assets/icon-orbit-dark.svg" width="24" alt="" align="top" /></picture> &nbsp;Tech stack
 
-<img src="assets/stack-constellation.svg" width="100%" alt="Python, Flutter, Dart, TypeScript, NestJS, Firebase, PostgreSQL, C, C++, Git" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img src="assets/stack-dark.svg" width="100%" alt="Python, Flutter, Dart, TypeScript, NestJS, Firebase, PostgreSQL, C, C++, Git" /></picture>
 
 <br>
 
-### <img src="assets/icon-signal.svg" width="24" align="top" /> &nbsp;Let's connect
+### <picture><source media="(prefers-color-scheme: light)" srcset="assets/icon-signal-light.svg"><img src="assets/icon-signal-dark.svg" width="24" alt="" align="top" /></picture> &nbsp;Let's connect
 
-<a href="https://t.me/lladill"><img src="assets/contact-telegram-v3.svg" width="100%" alt="Telegram @lladill" /></a>
+<a href="https://t.me/lladill"><picture><source media="(prefers-color-scheme: light)" srcset="assets/telegram-light.svg"><img src="assets/telegram-dark.svg" width="100%" alt="Telegram @lladill" /></picture></a>
 
-<a href="mailto:877555666zzz@gmail.com"><img src="assets/contact-email-v3.svg" width="100%" alt="Email 877555666zzz@gmail.com" /></a>
+<a href="mailto:877555666zzz@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="assets/email-light.svg"><img src="assets/email-dark.svg" width="100%" alt="Email 877555666zzz@gmail.com" /></picture></a>
 
 <br><br>
 
-<img src="assets/footer-v3.svg" width="100%" alt="" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg"><img src="assets/footer-dark.svg" width="100%" alt="" /></picture>

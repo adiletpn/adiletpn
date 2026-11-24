@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <circle cx="5" cy="17" r="2.6" fill="none" stroke="#45454D" stroke-width="1.5"/>
+  <circle cx="19" cy="7" r="2.6" fill="none" stroke="#45454D" stroke-width="1.5"/>
+  <path id="a" d="M7.3 15.6 Q 9 7.5 16.7 8.4" fill="none" stroke="#45454D" stroke-width="1.2" stroke-dasharray="1.5 2"/>
+  <circle r="1.4" fill="#111114"><animateMotion dur="4s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.6;1" calcMode="linear"><mpath href="#a"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.1;0.5;0.6;1" dur="4s" repeatCount="indefinite"/></circle>
+</svg>

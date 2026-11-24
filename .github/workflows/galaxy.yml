@@ -1,0 +1,47 @@
+name: Update galaxy
+
+# Redraws the profile images once a week so new public repos join the orbits.
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Mondays 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: galaxy
+  cancel-in-progress: true
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch public repos
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh repo list "${{ github.repository_owner }}" --limit 300 --visibility public \
+            --json name,primaryLanguage,diskUsage,pushedAt,isFork \
+            --jq '[.[] | select(.isFork | not)
+                   | {name, lang: (.primaryLanguage.name // "-"), kb: .diskUsage, pushed: .pushedAt}]
+                  | sort_by(.name)' > data/repos.json
+          echo "repos: $(jq length data/repos.json)"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Draw
+        run: python3 scripts/generate.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data assets
+          git diff --cached --quiet && { echo "no changes"; exit 0; }
+          git commit -m "Update galaxy"
+          git push
