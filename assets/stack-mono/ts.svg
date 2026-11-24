@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 256 256">
+  <defs><filter id="mono"><feColorMatrix type="matrix" values="0.42 0.84 0.14 0 0.15  0.42 0.84 0.14 0 0.15  0.42 0.84 0.14 0 0.15  0 0 0 1 0"/></filter></defs>
+  <rect x="2" y="2" width="252" height="252" rx="58" fill="#0B0B0C" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="4"/>
+  <g transform="translate(128 128) scale(0.78) translate(-128 -128)" filter="url(#mono)"><text x="128" y="128" text-anchor="middle" dominant-baseline="central" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="120" font-weight="600" fill="#FFFFFF" letter-spacing="-4">TS</text></g>
+</svg>
